@@ -2,7 +2,7 @@
   "modes": [
     {
       "id": "previa",
-      "name": "Previa",
+      "name": "test",
       "emoji": "🍺",
       "description": "Para romper el hielo, suave.",
       "cards": [
