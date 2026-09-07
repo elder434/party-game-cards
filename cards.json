@@ -1,0 +1,74 @@
+{
+  "modes": [
+    {
+      "id": "previa",
+      "name": "Previa",
+      "emoji": "🍺",
+      "description": "Para romper el hielo, suave.",
+      "cards": [
+        { "id": "prev-001", "type": "reto", "text": "El último en levantar la mano toma 1." },
+        { "id": "prev-002", "type": "grupal", "text": "Todos los que carretearon esta semana, tomen 1." },
+        { "id": "prev-003", "type": "reto", "text": "Elige a alguien para que tome contigo. Salud." },
+        { "id": "prev-004", "type": "waterfall", "text": "Waterfall: todos empiezan a tomar al mismo tiempo. Nadie para hasta que pare el de tu derecha." },
+        { "id": "prev-005", "type": "reto", "text": "El más bajo de la mesa reparte 3 tragos como quiera." },
+        { "id": "prev-006", "type": "categorias", "text": "Categoría: marcas de cerveza. Van por turnos. El que se queda pegado o repite, toma." },
+        { "id": "prev-007", "type": "nunca_nunca", "text": "Yo nunca nunca me he quedado dormido en un carrete." },
+        { "id": "prev-008", "type": "votacion", "text": "Voten: ¿quién llega siempre tarde? El más votado toma 2." },
+        { "id": "prev-009", "type": "reto", "text": "Cuenta un dato random de ti. Si alguien ya lo sabía, tomas tú." },
+        { "id": "prev-010", "type": "reto", "text": "El de camisa/polera más clara toma 1. Si nadie tiene, toma el que repartió las cartas." }
+      ]
+    },
+    {
+      "id": "cultura_chupistica",
+      "name": "Cultura Chupística",
+      "emoji": "🧠",
+      "description": "Preguntas con castigo. El que falla, toma.",
+      "cards": [
+        { "id": "cult-001", "type": "pregunta", "text": "¿Capital de Australia? El que no sepa toma. (Canberra)" },
+        { "id": "cult-002", "type": "reto", "text": "Nombra 3 presidentes de Chile en 10 segundos o toma 2." },
+        { "id": "cult-003", "type": "pregunta", "text": "¿En qué año llegó el hombre a la Luna? El que falle toma. (1969)" },
+        { "id": "cult-004", "type": "reto", "text": "Di el abecedario al revés sin parar. Si te trabas, toma 2." },
+        { "id": "cult-005", "type": "pregunta", "text": "¿Cuántos jugadores hay en cancha por equipo en el fútbol? El que falle toma. (11)" },
+        { "id": "cult-006", "type": "reto", "text": "Nombra 5 países que empiecen con A en 15 seg o toma 3." },
+        { "id": "cult-007", "type": "pregunta", "text": "¿Cuál es el río más largo del mundo? El que no sepa toma. (Nilo / Amazonas, acepten discusión)" },
+        { "id": "cult-008", "type": "reto", "text": "Cuenta de 3 en 3 desde 100 hacia abajo. El primero que se equivoca toma." },
+        { "id": "cult-009", "type": "pregunta", "text": "¿Cuántos días tiene febrero en año bisiesto? El que falle toma. (29)" },
+        { "id": "cult-010", "type": "reto", "text": "Nombra una canción de cada década desde los 80. Si no puedes, toma 2." }
+      ]
+    },
+    {
+      "id": "picante",
+      "name": "Picante",
+      "emoji": "🌶️",
+      "description": "Más atrevido y confesional. +18.",
+      "cards": [
+        { "id": "pic-001", "type": "reto", "text": "Muestra el último meme de tu galería o toma 3." },
+        { "id": "pic-002", "type": "reto", "text": "Muestra tu última conversación de WhatsApp o toma 2." },
+        { "id": "pic-003", "type": "confesion", "text": "Confiesa la mentira más grande que dijiste este año o toma 3." },
+        { "id": "pic-004", "type": "nunca_nunca", "text": "Yo nunca nunca le he escrito a un ex a las 3 AM." },
+        { "id": "pic-005", "type": "votacion", "text": "Voten: ¿quién es el más coqueto de la mesa? El más votado toma 2." },
+        { "id": "pic-006", "type": "reto", "text": "Deja que el de tu izquierda revise tu último 'me gusta' en redes o toma 3." },
+        { "id": "pic-007", "type": "confesion", "text": "Cuenta tu peor cita o toma 2." },
+        { "id": "pic-008", "type": "nunca_nunca", "text": "Yo nunca nunca me he hecho el dormido para no responder un mensaje." },
+        { "id": "pic-009", "type": "votacion", "text": "Voten: ¿quién sería el peor para compartir depto? El más votado toma." },
+        { "id": "pic-010", "type": "reto", "text": "Manda un audio cantando el coro de la canción que suene o toma 3." }
+      ]
+    },
+    {
+      "id": "parejas",
+      "name": "Parejas",
+      "emoji": "❤️",
+      "description": "Para jugar de a dos.",
+      "cards": [
+        { "id": "par-001", "type": "reto", "text": "Cada uno cuenta la primera impresión que tuvo del otro o toman ambos." },
+        { "id": "par-002", "type": "reto", "text": "Sin mirar, describe qué anda trayendo puesto tu pareja. Si fallas, tomas 2." },
+        { "id": "par-003", "type": "pregunta", "text": "¿Cuál fue su primera cita? Si no coinciden, toman los dos." },
+        { "id": "par-004", "type": "reto", "text": "Dile a tu pareja algo que nunca le has dicho o toma 3." },
+        { "id": "par-005", "type": "pregunta", "text": "¿Quién dijo 'te quiero' primero? Si no se acuerdan, toman ambos." },
+        { "id": "par-006", "type": "reto", "text": "Imiten su primera pelea. La mesa vota si fue creíble; si no, toman." },
+        { "id": "par-007", "type": "pregunta", "text": "¿Cuál es la comida favorita del otro? El que falle toma 2." },
+        { "id": "par-008", "type": "reto", "text": "Intercambien celulares por una ronda. El que se arrepienta primero, toma 3." }
+      ]
+    }
+  ]
+}
